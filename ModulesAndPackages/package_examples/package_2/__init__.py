@@ -2,7 +2,7 @@ from ModulesAndPackages.package_examples.package_2.modules.http_get import get_d
 ...
 
 
-def get_data() -> dict:
+def get_data():
     return get_dict()
 
 

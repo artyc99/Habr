@@ -1,5 +1,5 @@
 
-def get_dict() -> dict:
+def get_dict():
     return {'satus': 200, 'data': 'success'}
 
 

@@ -2,7 +2,7 @@ from .modules.http_get import get_dict
 ...
 
 
-def get_data() -> dict:
+def get_data():
     return get_dict()
 
 
