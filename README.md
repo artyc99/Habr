@@ -1,2 +1,2 @@
 # Habr
-Here is my harb articles about Python
+Here is my Habr articles about Python
