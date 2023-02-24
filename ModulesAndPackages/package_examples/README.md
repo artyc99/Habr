@@ -1,0 +1,1 @@
+# This is simplified package demonstration
